@@ -42,7 +42,7 @@
     "wagmi": "^0.3.5"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^3.4.0",
+    "@cloudflare/workers-types": "^3.14.1",
     "@graphql-codegen/cli": "^2.6.2",
     "@graphql-codegen/typescript": "^2.4.8",
     "@graphql-codegen/typescript-graphql-request": "^4.4.5",
